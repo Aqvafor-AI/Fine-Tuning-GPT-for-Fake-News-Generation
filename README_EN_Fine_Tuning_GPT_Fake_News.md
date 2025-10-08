@@ -2,6 +2,10 @@
 
 The Jupyter notebook `Дообучение_GPT,_генерация_фейковых_новостей.ipynb` demonstrates **fine-tuning a GPT-based language model** on a custom dataset of news articles to generate realistic-looking fake news.
 
+## 🧠 Fine-Tuning GPT for Fake News Generation
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a2_OfmguNoDJ6v8R3shKLZK6B1k1zxYZ?usp=sharing)
+
 ## 🎯 Project Goals
 - Understand the **fine-tuning process** for GPT models on domain-specific data.  
 - Demonstrate changes in model behavior after training.  
